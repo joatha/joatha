@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Joathã Andrade. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -18,16 +18,17 @@
 
 <p align="center">
  
-
-<img src="https://github-readme-stats.vercel.app/api?username=joatha&show_icons=true&theme=radical"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=joatha&show_icons=true&theme=radical">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joatha&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
 <h3 align="center"> Other Accounts 📫 </h3>
-<br />
+ 
+<br/>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/joatha//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 </p>
 
