@@ -14,3 +14,5 @@
 - 🌐 &nbsp; Android | React Native | HTML | CSS | Bootstrap | Bulma
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🖥 &nbsp; Adobe XD | Illustrator | Photoshop
+
+https://github-readme-stats.vercel.app/api?username=joatha&show_icons=true&theme=radical
