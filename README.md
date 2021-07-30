@@ -16,3 +16,12 @@
 - 🖥 &nbsp; Adobe XD | Illustrator | Photoshop<br>
 
 ![Joatha Andrade's github stats](https://github-readme-stats.vercel.app/api?username=joatha&show_icons=true&theme=radical)
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/joatha//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+</p>
+
