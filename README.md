@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Joathã Andrade. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Joathã Andrade. </h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
