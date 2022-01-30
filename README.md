@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C# 
+- 💻 &nbsp; Python | JavaScript 
 - 🌐 &nbsp; Android | React Native | NodeJs | Vue.js | HTML | CSS | Bootstrap | Bulma 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | Xampp 
 - 🖥 &nbsp; Adobe XD | Illustrator | Photoshop | After Effects<br><br>
