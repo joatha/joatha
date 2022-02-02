@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | JavaScript 
 - 🌐 &nbsp; Android | React Native | NodeJs | Vue.js | HTML | CSS | Bootstrap | Bulma 
 - 🛢 &nbsp; MySQL | Firebase | Xampp 
-- 🖥 &nbsp; Figma | Illustrator | Photoshop | After Effects<br><br>
+- 🖥 &nbsp; Figma | Illustrator | Photoshop <br><br>
 
 <p align="center">
  
