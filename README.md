@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript 
-- 🌐 &nbsp; Android | React Native | NodeJs | Vue.js | HTML | CSS | Bootstrap | Bulma 
+- 🌐 &nbsp; Android | React Native | NodeJs| HTML | CSS | Bootstrap | Bulma 
 - 🛢 &nbsp; MySQL | Firebase | Xampp 
 - 🖥 &nbsp; Figma | Illustrator | Photoshop <br><br>
 
