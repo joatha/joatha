@@ -31,11 +31,9 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joatha&theme=merko&show_icons=true)
 
-<p align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=joatha&show_icons=true&theme=radical"><br><br>
-</p>
+
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <p align="center">
