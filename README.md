@@ -1,6 +1,9 @@
 
 <h2> Hey there! I'm Joathã Andrade. </h2>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="350"/>
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47oqsrxbqlbjjfhncpp02oukskr71gi4ecex7mkz3f&rid=giphy.gif&ct=g" width="350"/>
+
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
