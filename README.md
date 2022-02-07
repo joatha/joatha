@@ -8,7 +8,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I have a degree in Systems Analysis and Development.
 - 🌱 &nbsp; Enthusiastic about Web development and Machine Learning.
-- 🕹️ Gamer
 - 📕 Reader
 <br>
 <h3>🚀 Skills</h3>
