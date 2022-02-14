@@ -5,7 +5,7 @@
 
 
 
-<h3> 👨🏻‍💻 About Me</h3>
+<h3>👨🏻‍💻 About Me</h3>
 
 - 🔭 &nbsp; I’m currently FullStack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
