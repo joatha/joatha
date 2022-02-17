@@ -40,7 +40,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joatha&theme=merko&show_icons=true)
 
 
-<h3 align="center"> Other Accounts 📫 </h3>
+<h3 align="center"> Other Accounts 📫</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/joatha//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://medium.com/@joathaandrade2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
