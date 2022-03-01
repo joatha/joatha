@@ -4,7 +4,6 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47oqsrxbqlbjjfhncpp02oukskr71gi4ecex7mkz3f&rid=giphy.gif&ct=g" width="350"/>
 
 
-
 <h3>👨🏻‍💻 About Me</h3>
 
 - 🔭 &nbsp; I’m currently FullStack Development
