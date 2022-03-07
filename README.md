@@ -34,7 +34,6 @@
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src = "https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joatha&theme=merko&show_icons=true)
