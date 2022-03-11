@@ -12,7 +12,6 @@
 - 📕 Reader
 <br>
 
-
 <h3>🚀 Skills</h3>
 
 <p>
