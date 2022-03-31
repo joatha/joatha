@@ -11,7 +11,6 @@
 - 🌱 &nbsp; Enthusiastic about Web development and Machine Learning.
 - 📕 Reader
 <br>
-
 <h3>🚀 Skills</h3>
 
 <p>
